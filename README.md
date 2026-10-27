@@ -241,4 +241,4 @@ This repository serves as the official landing page for Remove.bg. The software 
 **Get the most recent version of Remove.bg today!**
 
 ---
-**Last updated:** 2026-10-27 19:13:57 UTC
+**Last updated:** 2026-10-27 23:27:48 UTC
